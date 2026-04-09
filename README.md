@@ -295,6 +295,9 @@ Esta memória define os valores numéricos usados em cada instrução.
 
 Esta CPU representa uma implementação didática e funcional de uma arquitetura sequencial simples, mostrando como componentes fundamentais como: contador, EEPROM, registradores, ULA, clock e multiplexadores podem ser integrados para executar uma sequência de instruções reais em hardware lógico.
 
+# Vídeo explicativo
+[![Assista ao vídeo](https://img.youtube.com/vi/d9IqE9SVTxc/hqdefault.jpg)](https://www.youtube.com/watch?v=d9IqE9SVTxc)
+
 
 # Documentação da ponderada - ALU 
 
