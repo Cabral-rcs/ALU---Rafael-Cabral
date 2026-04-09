@@ -1,7 +1,7 @@
 # Documentação da ponderada CPU
 
 ## Visão Geral
-
+`O arquivo da CPU está em Arquivos_ALU\CPU.dig` <br> </br>
 Este projeto implementa uma **CPU sequencial simples** construída em lógica digital, com execução de instruções baseada em **memórias EEPROM**, controle por **clock manual** e armazenamento de resultados em registradores.
 
 A CPU foi projetada para executar uma sequência fixa de operações aritméticas, utilizando:
